@@ -9,14 +9,14 @@
     "blog"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/username/n8n-nodes-blogger",
+  "homepage": "https://github.com/niyonabil/n8n-nodes-blogger",
   "author": {
     "name": "Your Name",
     "email": "your.email@example.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/n8n-nodes-blogger.git"
+    "url": "https://github.com/niyonabil/n8n-nodes-blogger.git"
   },
   "main": "index.js",
   "scripts": {
