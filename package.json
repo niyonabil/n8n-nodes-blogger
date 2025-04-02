@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-blogger",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "n8n node pour interagir avec l'API Blogger",
   "keywords": [
     "n8n-community-node-package",
@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/niyonabil/n8n-nodes-blogger",
-  "author": "NIYONABIL <BOGUIMAN@GMAIL.COM>",
+  "author": "NIYONABIL",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/niyonabil/n8n-nodes-blogger.git"
